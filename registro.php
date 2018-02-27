@@ -1,8 +1,9 @@
+<LINK href="registro.css" rel="stylesheet" type="text/css">
 <h2>REgistro de usuarios</h2>
 <p>
 Todos los campos deben de ser obligaorios
 </p>
-
+<div>
 <form action="registro.php" method="post">
 <p>nombre: <input type="text" name="nombre" /></p>
 <p>Apellido paterno: <input type="text" name="paterno" /></p>
@@ -11,4 +12,5 @@ Todos los campos deben de ser obligaorios
 <p>correo: <input type="text" name="correo" /></p>
 <p><input type="submit" /></p>
 </form>
+</div>
 

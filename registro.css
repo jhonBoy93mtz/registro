@@ -1,0 +1,32 @@
+*{
+	background:#FFAAAA;
+}
+h2{
+	color:#550000;
+	font-size: 22px;
+	font-family:Helvetica;
+	text-align:center; 
+	padding:20px;
+	margin:2px;
+	border: red 1px solid;
+}
+p{
+	color:white;
+	font-size: 18px;
+	font-family: verdana;
+	text-align: left;
+	border: red 1px solid;
+}
+div{
+	margin:2px;
+	color: #801515;
+	border: red 1px solid;
+}
+form{
+	color:#801515;
+        font-size: 18px;
+        font-family: verdana;
+        text-align: left;
+	border: red 1px solid;	
+
+}
